@@ -1,11 +1,14 @@
+# Hi there 👋
 
-### Hi there, I'm João Victor Cunha 👋
-
-  
+<ul>
+<li><strong>Name: </strong>João Victor Cunha</li>
+<li><strong>Age: </strong>18</li>
+<li><strong>Livin in:</strong> Londrina, Brazil</li>
+<li><strong>Stack:</strong> Javascript - Bootstrap - React</li>
+<li><strong>University: Software engineering in UTFPR</strong></li>
+</ul>
 
 ## I'm a Frontend Developer
-
-  
 
 - 🔭 I'm currently working on a telemedicine company called Medmobi.
 
@@ -21,24 +24,17 @@
 
 - ⚡ Fun fact: I started learning programming because I wanted to build mods in minecraft when I was 12.
 
-  
-
-### Connect with me:
-
-  
-
-[<img align="left" alt="Jott4 | LinkedIn" width="22px" src="https://icons.veryicon.com/png/Internet%20%26%20Web/Simple%201/linkedin.png" />][linkedin]
-
-[<img align="left" alt="Jott4 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />][instagram]
-  
-
 <br />
 
-  
+# Journey
+
+2016 &#8594; 2019 &#8594; Finished high school.
+2017 &#8594; 2019 &#8594; Certificated by [SENAI][senai] in System Analysis and Development .
+2019 &#8594; [WordSkills][wordskills] competitor for Machine Learning and Big Data at SENAI Londrina.
+2020 &#8594; Front-end Developer at Medmobi.
+...
 
 # Languages and Tools:
-
-  
 
 ### Frontend
 
@@ -49,9 +45,10 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-  <br/>
-  
+<br/>
+
 ### Backend
+
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
 
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
@@ -64,13 +61,19 @@
 [Pandas][pandas]
 [Scikit-learn][scikitlearn]
 
+<br/>
+
+### Connect with me:
+
+[<img align="left" alt="Jott4 | LinkedIn" width="22px" src="https://icons.veryicon.com/png/Internet%20%26%20Web/Simple%201/linkedin.png" />][linkedin]
+
+[<img align="left" alt="Jott4 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />][instagram]
 
 [utfpr]: http://www.utfpr.edu.br/
 [instagram]: https://www.instagram.com/jvgcunha/
 [linkedin]: https://www.linkedin.com/in/Jott4
-
 [html]: https://developer.mozilla.org/docs/Web/HTML
-[css]:  https://developer.mozilla.org/docs/Web/CSS
+[css]: https://developer.mozilla.org/docs/Web/CSS
 [javascript]: https://developer.mozilla.org/docs/Web/JavaScript
 [react]: https://reactjs.org/
 [python]: https://www.python.org/
@@ -78,3 +81,5 @@
 [scikitlearn]: https://scikit-learn.org/
 [mysql]: https://www.mysql.com/
 [node]: https://nodejs.org/en/
+[senai]: http://www.portaldaindustria.com.br/senai/en/about/senai/
+[wordskills]: https://worldskills.org/
