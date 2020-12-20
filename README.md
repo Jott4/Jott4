@@ -5,7 +5,7 @@
 <li><strong>Age: </strong>18</li>
 <li><strong>Livin in:</strong> Londrina, Brazil</li>
 <li><strong>Stack:</strong> Javascript - Bootstrap - React</li>
-<li><strong>University: Software engineering in UTFPR</strong></li>
+<li><strong>University:</strong> Software engineering in UTFPR</strong></li>
 </ul>
 
 ## I'm a Frontend Developer
@@ -28,10 +28,10 @@
 
 # Journey
 
-2016 &#8594; 2019 &#8594; Finished high school.
-2017 &#8594; 2019 &#8594; Certificated by [SENAI][senai] in System Analysis and Development .
-2019 &#8594; [WordSkills][wordskills] competitor for Machine Learning and Big Data at SENAI Londrina.
-2020 &#8594; Front-end Developer at Medmobi.
+2016 &#8594; 2019: Finished high school. <br/>
+2017 &#8594; 2019 &#8594; Certificated by [SENAI][senai] in System Analysis and Development .<br/>
+2019 &#8594; [WordSkills][wordskills] competitor for Machine Learning and Big Data at SENAI Londrina.<br/>
+2020 &#8594; Front-end Developer at Medmobi.<br/>
 ...
 
 # Languages and Tools:
