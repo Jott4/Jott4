@@ -28,11 +28,11 @@
 
 # Journey
 
-2016 &#8594; 2019: Finished high school. <br/>
-2017 &#8594; 2019: Certificated by [SENAI][senai] in System Analysis and Development .<br/>
+2016 &#8594; 2019: Finished high school<br/>
+2017 &#8594; 2019: Certificated by [SENAI][senai] in System Analysis and Development<br/>
 2019 &#8594; Started my degree as a software engineer at UTFPR<br/>
-2019 &#8594; [WordSkills][wordskills] competitor for Machine Learning and Big Data at SENAI Londrina.<br/>
-2020 &#8594; Front-end Developer at Medmobi.<br/>
+2019 &#8594; [WordSkills][wordskills] competitor for Machine Learning and Big Data at SENAI Londrina<br/>
+2020 &#8594; Front-end Developer at Medmobi<br/>
 ...
 
 # Languages and Tools:
