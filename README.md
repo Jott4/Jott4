@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning React.js and UX/UI.
 
-- 👯 I’m looking to collaborate on more open-source projects.
+- 👁️ I’m looking to collaborate on more open-source projects.
 
 - 💬 Ask me anything, I don’t promise to answer, but I’ll try my best.
 
@@ -29,7 +29,8 @@
 # Journey
 
 2016 &#8594; 2019: Finished high school. <br/>
-2017 &#8594; 2019 &#8594; Certificated by [SENAI][senai] in System Analysis and Development .<br/>
+2017 &#8594; 2019: Certificated by [SENAI][senai] in System Analysis and Development .<br/>
+2019 &#8594; Started my degree as a software engineer at UTFPR<br/>
 2019 &#8594; [WordSkills][wordskills] competitor for Machine Learning and Big Data at SENAI Londrina.<br/>
 2020 &#8594; Front-end Developer at Medmobi.<br/>
 ...
