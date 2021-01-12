@@ -20,8 +20,6 @@
 
 - 💬 Ask me anything, I don’t promise to answer, but I’ll try my best.
 
-- 📫 How to reach me: jvgcunha2002@gmail.com
-
 - ⚡ Fun fact: I started learning programming because I wanted to build mods in minecraft when I was 12.
 
 <br />
