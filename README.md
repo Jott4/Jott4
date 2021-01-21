@@ -14,7 +14,7 @@
 
 - 📚 I'm currently graduating Software engineering in [UTFPR][utfpr] (Universidade Técnologica Federal do Paraná).
 
-- 🌱 I’m currently learning React.js and UX/UI.
+- 🌱 I’m currently learning UX/UI.
 
 - 👁️ I’m looking to collaborate on more open-source projects.
 
