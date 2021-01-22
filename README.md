@@ -33,41 +33,6 @@
 2020: Front-end Developer at Medmobi<br/>
 ...
 
-# Languages and Tools:
-
-### Frontend
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-<br/>
-
-### Backend
-
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
-
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-
-<br/>
-
-### Machine Learning
-
-[<img align="left" alt="Python" width="26px" src="https://camo.githubusercontent.com/64b1f535115add5713c419514a1bb8e76aeafbc2e9b6b91c00ddfd697713bbb0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f4070726f6772616d6d696e672d6c616e6775616765732d6c6f676f732f707974686f6e40302e302e302f707974686f6e5f323536783235362e706e67" />][python]
-[Pandas][pandas]
-[Scikit-learn][scikitlearn]
-
-<br/>
-
-### Connect with me:
-
-[<img align="left" alt="Jott4 | LinkedIn" width="22px" src="https://icons.veryicon.com/png/Internet%20%26%20Web/Simple%201/linkedin.png" />][linkedin]
-
-[<img align="left" alt="Jott4 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />][instagram]
-
 [utfpr]: http://www.utfpr.edu.br/
 [instagram]: https://www.instagram.com/jvgcunha/
 [linkedin]: https://www.linkedin.com/in/Jott4
