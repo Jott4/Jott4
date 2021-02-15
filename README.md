@@ -28,7 +28,7 @@
 
 2016 &#8594; 2019: Finished high school<br/>
 2017 &#8594; 2019: Certificated by [SENAI][senai] in System Analysis and Development<br/>
-2019: Started my degree as a software engineer at UTFPR<br/>
+2019: Started my degree as a software engineer at [UTFPR][http://www.utfpr.edu.br/]<br/>
 2019: [WordSkills][wordskills] competitor for Machine Learning and Big Data at SENAI Londrina<br/>
 2020: Front-end Developer at Medmobi<br/>
 ...
