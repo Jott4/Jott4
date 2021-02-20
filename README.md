@@ -2,7 +2,7 @@
 
 <ul>
 <li><strong>Name: </strong>João Victor Cunha</li>
-<li><strong>Age: </strong>18</li>
+<li><strong>Age: </strong>19</li>
 <li><strong>Livin in:</strong> Londrina, Brazil</li>
 <li><strong>Stack:</strong> Javascript - Bootstrap - React</li>
 <li><strong>University:</strong> Software engineering in UTFPR</strong></li>
