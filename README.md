@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact: I started learning programming because I wanted to build mods in minecraft when I was 12.
 
-- [Notion][https://www.notion.so/Me-6706e75fae284282b9f5aa8d1ecee4aa]
+- [My Notion][notion]
 <br />
 
 # Journey
@@ -48,3 +48,4 @@
 [node]: https://nodejs.org/en/
 [senai]: http://www.portaldaindustria.com.br/senai/en/about/senai/
 [wordskills]: https://worldskills.org/
+[notion]: https://www.notion.so/Me-6706e75fae284282b9f5aa8d1ecee4aa
