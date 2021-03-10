@@ -22,6 +22,7 @@
 
 - ⚡ Fun fact: I started learning programming because I wanted to build mods in minecraft when I was 12.
 
+- [Notion][https://www.notion.so/Me-6706e75fae284282b9f5aa8d1ecee4aa]
 <br />
 
 # Journey
