@@ -10,8 +10,6 @@
 
 ## I'm a Frontend Developer
 
-- 🔭 I'm currently working on a telemedicine company called Medmobi.
-
 - 📚 I'm currently graduating Software engineering in [UTFPR][utfpr] (Universidade Técnologica Federal do Paraná).
 
 - 🌱 I’m currently learning UX/UI.
