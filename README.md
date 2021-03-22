@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact: I started learning programming because I wanted to build mods in minecraft when I was 12.
 
-- [My Notion][notion]
+- 📕 You can check what i'm studying in [My Notion][notion]
 <br />
 
 # Journey
@@ -32,6 +32,7 @@
 2019: Started my degree as a software engineer at [UTFPR][http://www.utfpr.edu.br/]<br/>
 2019: [WordSkills][wordskills] competitor for Machine Learning and Big Data at SENAI Londrina<br/>
 2020: Front-end Developer at Medmobi<br/>
+2021: Front-end Developer at bankme<br/>
 ...
 
 [utfpr]: http://www.utfpr.edu.br/
