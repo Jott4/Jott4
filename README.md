@@ -10,6 +10,8 @@
 
 ## I'm a Frontend Developer
 
+- 🔭 I'm currently working on [bankme][bankme].
+
 - 📚 I'm currently graduating Software engineering in [UTFPR][utfpr] (Universidade Técnologica Federal do Paraná).
 
 - 🌱 I’m currently learning UX/UI.
@@ -47,3 +49,4 @@
 [senai]: http://www.portaldaindustria.com.br/senai/en/about/senai/
 [wordskills]: https://worldskills.org/
 [notion]: https://www.notion.so/Me-6706e75fae284282b9f5aa8d1ecee4aa
+[bankme]: http://bankme.tech/
