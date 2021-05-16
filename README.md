@@ -10,6 +10,8 @@
 
 ## I'm a Frontend Developer
 
+- 📕 You can check what i'm studying in [My Notion][notion]
+
 - 🔭 I'm currently working on [bankme][bankme].
 
 - 📚 I'm currently graduating Software engineering in [UTFPR][utfpr] (Universidade Técnologica Federal do Paraná).
@@ -22,7 +24,7 @@
 
 - ⚡ Fun fact: I started learning programming because I wanted to build mods in minecraft when I was 12.
 
-- 📕 You can check what i'm studying in [My Notion][notion]
+
 <br />
 
 # Journey
