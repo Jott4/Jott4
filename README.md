@@ -10,7 +10,7 @@
 
 - 📕 You can check what i'm studying in [My Notion][notion]
 
-- 🔭 I'm currently working on [bankme][bankme].
+- 🔭 I'm currently working @ [bankme][bankme].
 
 - 📚 I'm currently graduating Software engineering in [UTFPR][utfpr] (Universidade Técnologica Federal do Paraná).
 
