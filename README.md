@@ -6,7 +6,6 @@
 <li><strong>Livin in:</strong> Londrina, Brazil</li>
 </ul>
 
-## I'm a Frontend Developer
 
 - 📕 You can check what i'm studying in [My Notion][notion]
 
