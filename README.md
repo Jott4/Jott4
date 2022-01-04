@@ -13,7 +13,7 @@
 
 - 📚 Graduating Software engineering in [UTFPR][utfpr] (Universidade Técnologica Federal do Paraná).
 
-- 🌱 Learning <strong>solidity<strong> and blockchain basics.
+- 🌱 Learning <strong>AWS<strong> and Cloud principles.
 
 - 👁️ I’m looking to collaborate on more open-source projects.
 
@@ -49,5 +49,5 @@
 [node]: https://nodejs.org/en/
 [senai]: http://www.portaldaindustria.com.br/senai/en/about/senai/
 [wordskills]: https://worldskills.org/
-[notion]: https://www.notion.so/Me-6706e75fae284282b9f5aa8d1ecee4aa
+[notion]: https://www.notion.so/My-Skills-846dd31662674b3e9ca00f708265a607
 [bankme]: http://bankme.tech/
