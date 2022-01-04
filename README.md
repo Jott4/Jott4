@@ -25,14 +25,17 @@
 
 <br />
 
-# Journey
+# ⛰️ Journey
 2017 &#8594; 2019: Certificated by [SENAI][senai] in System Analysis and Development<br/>
-2019: Started my degree as a software engineer at [UTFPR][http://www.utfpr.edu.br/]<br/>
+2019: Started my degree as a software engineer at [UTFPR][utfpr]<br/>
+  
 2019: [WordSkills][wordskills] competitor for Machine Learning and Big Data at SENAI Londrina<br/>
-2020: Front-end Developer at Medmobi<br/>
-2021: Front-end Developer at bankme<br/>
+2020 &#8594; 2021: Frontend Developer at Medmobi, a telemedicine startup<br/>
+2021 &#8594; current: Developer at [bankme][bankme], a fintech<br/>
 ...
 
+  
+[bankme]: https://bankme.tech/
 [utfpr]: http://www.utfpr.edu.br/
 [instagram]: https://www.instagram.com/jvgcunha/
 [linkedin]: https://www.linkedin.com/in/Jott4
