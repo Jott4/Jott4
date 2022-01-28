@@ -30,7 +30,7 @@
   
 2019: [WordSkills][wordskills] competitor for Machine Learning and Big Data at SENAI Londrina<br/>
 2020 &#8594; 2021: Frontend Developer at Medmobi, a telemedicine startup<br/>
-2021 &#8594; current: Developer at [bankme][bankme], a fintech<br/>
+2021 &#8594; current: Developer at [bankme][bankme], a fintech startup<br/>
 ...
 
   
