@@ -2,7 +2,7 @@
 
 <ul>
 <li><strong>Name: </strong>João Victor Cunha</li>
-<li><strong>Age: </strong>20</li>
+<li><strong>Age: </strong>21</li>
 <li><strong>Livin in:</strong> Londrina, Brazil</li>
 </ul>
 
