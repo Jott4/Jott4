@@ -7,17 +7,9 @@
 </ul>
 
 
-- 📕 You can check what i'm studying in [My Notion][notion]
-
 - 🔭 I'm currently working @ [bankme][bankme].
 
-- 📚 Graduating Software engineering in [UTFPR][utfpr] (Universidade Técnologica Federal do Paraná).
-
-- 🌱 Learning <strong>AWS<strong> and Cloud principles.
-
-- 👁️ I’m looking to collaborate on more open-source projects.
-
-- 💬 Ask me anything, I don’t promise to answer, but I’ll try my best.
+- 🏗️ I'm building a startup called [Typper](https://www.typper.io/)
 
 - ⚡ Fun fact: I started learning programming because I wanted to build mods in minecraft when I was 12.
 
@@ -31,6 +23,8 @@
 2019: [WordSkills][wordskills] competitor for Machine Learning and Big Data at SENAI Londrina<br/>
 2020 &#8594; 2021: Frontend Developer at Medmobi, a telemedicine startup<br/>
 2021 &#8594; current: Developer at [bankme][bankme], a fintech startup<br/>
+2023 &#8594; Founded [Typper](https://www.typper.io/)
+2023 &#8594;Tech Lead at Bankme and partner
 ...
 
   
