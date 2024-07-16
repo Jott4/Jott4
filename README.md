@@ -7,7 +7,7 @@
 </ul>
 
 
-- 🔭 I'm currently working @ [bankme][bankme].
+- 🔭 I'm currently working @ [Ferias&Co][ferias].
 
 - 🏗️ I'm building a startup called [Typper](https://www.typper.io/)
 
@@ -25,9 +25,10 @@
 2021 &#8594; current: Developer at [bankme][bankme], a fintech startup<br/>
 2023 &#8594; Founded [Typper](https://www.typper.io/)
 2023 &#8594;Tech Lead at Bankme and partner
+2023 &#8594; Tech Lead at Ferias&Co
 ...
 
-  
+[ferias]: https://ferias.co/ 
 [bankme]: https://bankme.tech/
 [utfpr]: http://www.utfpr.edu.br/
 [instagram]: https://www.instagram.com/jvgcunha/
