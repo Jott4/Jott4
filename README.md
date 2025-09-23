@@ -7,8 +7,6 @@
 </ul>
 
 
-- 🔭 I'm currently working @ [Ferias&Co][ferias].
-
 - 🏗️ I'm building a startup called [Typper](https://www.typper.io/)
 
 - ⚡ Fun fact: I started learning programming because I wanted to build mods in minecraft when I was 12.
