@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[![Árvore OSS Contributor](https://oss.arvore.com.br/badges/contributors/Jott4.svg)](https://github.com/arvoreeducacao)
+
 <ul>
 <li><strong>Name: </strong>João Victor Cunha</li>
 <li><strong>Age: </strong>23</li>
