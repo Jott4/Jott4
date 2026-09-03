@@ -9,6 +9,14 @@ import sys
 
 sys.setrecursionlimit(20000)
 RETRY_STATUS = {429, 500, 502, 503, 504}
+
+
+def visible_edges(edges):
+    """
+    Descarta repositorio que o token nao consegue ver: o GraphQL devolve o
+    edge com node nulo, e quem le adiante quebra num NoneType.
+    """
+    return [edge for edge in edges if edge.get('node') and edge['node'].get('nameWithOwner')]
 MAX_RETRIES = 6
 
 
@@ -127,7 +135,7 @@ def graph_repos_stars(count_type, owner_affiliation, cursor=None, add_loc=0, del
         if count_type == 'repos':
             return request.json()['data']['user']['repositories']['totalCount']
         elif count_type == 'stars':
-            return stars_counter(request.json()['data']['user']['repositories']['edges'])
+            return stars_counter(visible_edges(request.json()['data']['user']['repositories']['edges']))
 
 
 def recursive_loc(owner, repo_name, data, cache_comment, addition_total=0, deletion_total=0, my_commits=0, cursor=None):
@@ -233,10 +241,10 @@ def loc_query(owner_affiliation, comment_size=0, force_cache=False, cursor=None,
     variables = {'owner_affiliation': owner_affiliation, 'login': USER_NAME, 'cursor': cursor}
     request = simple_request(loc_query.__name__, query, variables)
     if request.json()['data']['user']['repositories']['pageInfo']['hasNextPage']:   # If repository data has another page
-        edges += request.json()['data']['user']['repositories']['edges']            # Add on to the LoC count
+        edges += visible_edges(request.json()['data']['user']['repositories']['edges'])  # Add on to the LoC count
         return loc_query(owner_affiliation, comment_size, force_cache, request.json()['data']['user']['repositories']['pageInfo']['endCursor'], edges)
     else:
-        return cache_builder(edges + request.json()['data']['user']['repositories']['edges'], comment_size, force_cache)
+        return cache_builder(edges + visible_edges(request.json()['data']['user']['repositories']['edges']), comment_size, force_cache)
 
 
 def cache_builder(edges, comment_size, force_cache, loc_add=0, loc_del=0):
