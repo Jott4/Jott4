@@ -1,48 +1,26 @@
-# Hi there 👋
+<a href="https://github.com/Jott4/Jott4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jott4/Jott4/main/dark_mode.svg">
+    <img alt="Perfil de João Victor Cunha" src="https://raw.githubusercontent.com/Jott4/Jott4/main/light_mode.svg">
+  </picture>
+</a>
 
 [![Árvore OSS Contributor](https://oss.arvore.com.br/badges/contributors/Jott4.svg)](https://github.com/arvoreeducacao)
 
-<ul>
-<li><strong>Name: </strong>João Victor Cunha</li>
-<li><strong>Age: </strong>23</li>
-<li><strong>Livin in:</strong> Londrina, Brazil</li>
-</ul>
+<h2>⛰️ Journey</h2>
 
-
-- 🏗️ I'm building a startup called [Typper](https://www.typper.io/)
-
-- ⚡ Fun fact: I started learning programming because I wanted to build mods in minecraft when I was 12.
-
-
-<br />
-
-# ⛰️ Journey
 2017 &#8594; 2019: Certificated by [SENAI][senai] in System Analysis and Development<br/>
 2019: Started my degree as a software engineer at [UTFPR][utfpr]<br/>
-  
-2019: [WordSkills][wordskills] competitor for Machine Learning and Big Data at SENAI Londrina<br/>
+2019: [WorldSkills][worldskills] competitor for Machine Learning and Big Data at SENAI Londrina<br/>
 2020 &#8594; 2021: Frontend Developer at Medmobi, a telemedicine startup<br/>
-2021 &#8594; current: Developer at [bankme][bankme], a fintech startup<br/>
-2023 &#8594; Founded [Typper](https://www.typper.io/)
-2023 &#8594;Tech Lead at Bankme and partner
-2023 &#8594; Tech Lead at Ferias&Co
-...
+2021: Developer at [bankme][bankme], a fintech startup<br/>
+2023: Founded [Typper](https://www.typper.io/)<br/>
+2023: Tech Lead at bankme, and partner<br/>
+2023: Tech Lead at [Ferias&Co][ferias]<br/>
+Currently: Software Engineer at [Árvore](https://github.com/arvoreeducacao)
 
-[ferias]: https://ferias.co/ 
+[ferias]: https://ferias.co/
 [bankme]: https://bankme.tech/
 [utfpr]: http://www.utfpr.edu.br/
-[instagram]: https://www.instagram.com/jvgcunha/
-[linkedin]: https://www.linkedin.com/in/Jott4
-[html]: https://developer.mozilla.org/docs/Web/HTML
-[css]: https://developer.mozilla.org/docs/Web/CSS
-[javascript]: https://developer.mozilla.org/docs/Web/JavaScript
-[react]: https://reactjs.org/
-[python]: https://www.python.org/
-[pandas]: https://pandas.pydata.org/
-[scikitlearn]: https://scikit-learn.org/
-[mysql]: https://www.mysql.com/
-[node]: https://nodejs.org/en/
 [senai]: http://www.portaldaindustria.com.br/senai/en/about/senai/
-[wordskills]: https://worldskills.org/
-[notion]: https://www.notion.so/My-Skills-846dd31662674b3e9ca00f708265a607
-[bankme]: http://bankme.tech/
+[worldskills]: https://worldskills.org/

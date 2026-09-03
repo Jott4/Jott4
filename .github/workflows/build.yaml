@@ -1,0 +1,39 @@
+name: README build
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 6 * * *"
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Get Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: cache/requirements.txt
+      - name: Install dependencies
+        run: python -m pip install -r cache/requirements.txt
+      - name: Update SVG cards
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN || secrets.GITHUB_TOKEN }}
+          USER_NAME: Jott4
+        run: python today.py
+      - name: Commit
+        run: |-
+          git add .
+          git diff --staged
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git commit -m "Atualiza os cards do perfil" -a || echo "Nada para commitar"
+          git push
