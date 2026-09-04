@@ -45,7 +45,7 @@ text, tspan {white-space: pre;}
 <tspan x="474" y="36">joao@arvore</tspan> ------------------------------------------
 <tspan x="474" y="56">- Sistema</tspan> --------------------------------------------
 <tspan x="474" y="76" class="cc">. </tspan><tspan class="key">SO</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">macOS, iOS, Linux</tspan>
-<tspan x="474" y="96" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ............... </tspan><tspan class="value" id="age_data">24 anos, 8 meses, 2 dias</tspan>
+<tspan x="474" y="96" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ............... </tspan><tspan class="value" id="age_data">24 anos, 8 meses, 3 dias</tspan>
 <tspan x="474" y="116" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Árvore Educação</tspan>
 <tspan x="474" y="136" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Engenheiro de Software</tspan>
 <tspan x="474" y="156" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Claude Code, VSCode</tspan>
